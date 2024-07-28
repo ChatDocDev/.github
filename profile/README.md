@@ -1,6 +1,6 @@
 # C-Doc Team 🚀
 
-Welcome to the C-Doc Team's GitHub organization! We are a group of five passionate developers - Aditya, Ameya, Parth, Manas, and Shreyas - collaborating on innovative projects in the field of document interaction and retrieval. 📄💬
+Welcome to the C-Doc Team's GitHub organization! We are a group of five passionate developers collaborating on innovative projects in the field of document interaction and retrieval. 📄💬
 
 ## Our Projects
 
